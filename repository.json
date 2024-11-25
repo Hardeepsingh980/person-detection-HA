@@ -2,7 +2,7 @@
     "name": "Person Detection Add-ons",
     "url": "https://github.com/Hardeepsingh980/person-detection-HA",
     "description": "A collection of add-ons for person detection with TensorFlow Lite and Home Assistant.",
-    "version": "1.0",
+    "version": "1.1",
     "domain": "hardeepsingh980"
   }
   

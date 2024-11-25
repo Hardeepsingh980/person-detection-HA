@@ -1,0 +1,12 @@
+{
+  "name": "Person Detection",
+  "version": "1.0",
+  "slug": "person_detection",
+  "description": "Detects people in camera feeds using TensorFlow Lite and notifies through Home Assistant.",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "startup": "application",
+  "boot": "auto",
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}

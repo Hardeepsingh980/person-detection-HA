@@ -1,0 +1,5 @@
+tflite_runtime
+opencv-python
+requests
+numpy
+python-dotenv
